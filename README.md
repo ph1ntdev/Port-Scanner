@@ -16,6 +16,7 @@ mkdir build && cd build
 cmake .. && cmake --build .
 ``` 
 you build and compile program.
+
 4. Run program using
 ```bash
 ./port-scanner
